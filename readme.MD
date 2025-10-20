@@ -11,4 +11,4 @@ you can create EC2 instance in joindevops using this module
 ## Outpus
 * public_ip - Public IP of the instance created
 * private_ip - Private IP of the instance created
-* instance_id - Instance IP of the instance created
+* instance_id - ID of the instance created
